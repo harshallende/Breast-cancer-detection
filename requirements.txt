@@ -6,6 +6,6 @@ gunicorn==19.9.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
-flask==2.0.0
-werkzeug==1.0.1
+flask==1.1.1
+werkzeug==0.16.1
 
